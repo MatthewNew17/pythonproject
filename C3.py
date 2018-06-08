@@ -1,0 +1,5 @@
+print("Type in your Number!!")
+x = raw_input()
+print("Type in another number!!")
+y = raw_input()
+print(int(x) * int(y))
